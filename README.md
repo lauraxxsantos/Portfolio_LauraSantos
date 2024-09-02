@@ -8,7 +8,7 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+
 
 # About me
 Hi ! My name is Laura Santos. I found a passion for data analytics in the last quarter of my Bachelors. Since then I have been on a steady journey to develop my data analytic skills to have an equipped toolbelt for data analysis and data visualization. 
@@ -33,8 +33,6 @@ or...
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
