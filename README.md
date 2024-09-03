@@ -25,20 +25,14 @@ I have a strong desire to apply my GIS skills to address transnational issues, c
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Leave with a foundational understanding of good visualization practices to create visuals that present data ethically 
+2. Learn how to use Tableau to create dashboards 
+3. Be able to assess graphics presented in news outlets and research studies critically 
 
 # Portfolio
 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
