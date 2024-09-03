@@ -22,8 +22,8 @@ This Fall, I am starting my second year at Heinz College's Master of Science in 
 I have a strong desire to apply my GIS skills to address transnational issues, city planning, remote sensing projects, and risk assessment maps.
 
 
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+# Learning Objectives
+
 
 1. Leave with a foundational understanding of good visualization practices to create visuals that present data ethically 
 2. Learn how to use Tableau to create dashboards 
