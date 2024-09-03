@@ -22,7 +22,7 @@ This Fall, I am starting my second year at Heinz College's Master of Science in 
 I have a strong desire to apply my GIS skills to address transnational issues, city planning, remote sensing projects, and risk assessment maps.
 
 
-# Learning Objectives
+# What I hope to Learn: 
 
 
 1. Leave with a foundational understanding of good visualization practices to create visuals that present data ethically 
