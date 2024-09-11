@@ -5,13 +5,11 @@
 
 ![General Government Debt 2023](GGD.jpg)
 
-Text here!
 
-_As before, this template provides some of the structure you should have for your assignment, but the official instructions and guidance can be found on Canvas.  Make sure to reference that for detailed instructions on what you need to do and what you need to submit to get credit._
 
 ## Part one: Working with web-based visualization tools and data
 
-_Include your visualization, and introduce us to what you did._
+![General Debt Visualization](workingwithtablaeu.png)
 
 ## Working with Tableau
 
