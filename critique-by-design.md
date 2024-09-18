@@ -28,8 +28,7 @@ The data is aggregated by decades, termed here ‘decadal averages.’ I think t
 
 The map aggregates the data by all-natural disasters. Since this is an overview map of all-natural disasters, it does make sense that the data is a decadal average of all-natural disasters. However, What could be more helpful is a time-lapse map of a decadal average of each natural disaster in addition to the map of all-natural disasters. The time-lapse video changes quickly between frames, slowing this down would be helpful for the viewer to capture the information. 
 
-Audience, Audience, Audience ! This is important to think about for visuals as much as it has been ingrained for us to think about it being very important for writing. 
-The primary audience is someone who can or is empowered to create change. This includes government officials, researchers, professors, students, and community members. The data is displayed on the site as a table, map, and chart. Assessing the map on its own, the visual could be more effective in reaching the audience. A government official would benefit more from a visual it can look at quickly to get numbers. The aggregated deaths of all natural-disasters is not particularly helpful for a government. For them to make actionable changes, disaggregated data would be more informative. It would be helpful to understand what natural disasters are more prominent in a particular country or region. 
+Audience, Audience, Audience ! This is important to think about for visuals as much as it has been ingrained for us to think about it being important for writing. For these visuals and dataset, the primary audience is someone who can or is empowered to create change. This includes government officials, researchers, professors, students, and community members. The authors provide the data as a table, map, and chart. A government official can filter the data as needed. The authors could have provided maps and charts with disagregated data. Assessing the map on its own, the visual could be more effective in reaching the intended audience. A government official would benefit more from a visual it can look at quickly to get numbers. The aggregated deaths of all natural-disasters is not particularly helpful for a government. For them to make actionable changes, disaggregated data would be more informative. It would be helpful to understand what natural disasters are more prominent in a particular country or region. 
 
 ## Step three: Sketch the Makeover
 
@@ -63,13 +62,24 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 
 Both individuals that provided feedback were curious to know what sort of natural disasters were driving the total number of deaths in each country. Turkey had the highest natural disasters. Feedback provider #1 asked, "what goes on in Turkey?". The authors of this dataset on the impact of natural disasters on countries around the world probably gathered this information to help government officials be prepared for natural disasters. A map with total deaths from natural disasters is too general for a government to form an actionable plan from the visual. Given this curiosity in what natural disasters are causing deaths in a nation I will instead focus on a region of the world and choose a natural disaster that impacts that region the most. This way I can provid more detailed information for a smaller region than provding less information for a larger region. 
 
+## Plot Twist !
+
+I see dataset with spatial data and jump with enthusiasm ! I think lets make a map and exciting I get to practice my mapping skills !
+
+In this excercise I learned that maps aren't always the makeover solution. Yes even when there is spatial data involved and the data is about counties, states, countries, and the whole world. 
+
+I got to this conlucsion by thinkining about -- Audience --. How can the data be best visualized for a government official or united nations member to look at & quickly gather the data ? How can the data compare country information side-by-side to quickly make comparisons ? 
+
+So I scratched the map idea. I decided to focus on just a portion of the world and show more detailed information that could be helpful for a government official. I studied abroad and traveled South America, I hold these countries close to heart for this reason and because as a Latina I want to adovcate for the Latino community. Given these reasons and many more I decided to choose it as the region to dive into. 
+
+The dataset had information of almost all natural disasters. I used the authors map visual and filter to determine which natural disaster most affected South America and which year ranges had more information. Flooding impacted South America the most between 2010 to 2019. This is why I chose flooding as the natural disaster to create a visual for.
+
+Thats the plot twist: the map enthusiast had to challenge herself to make a line chart because its what will benefit the audience the most. 
+
 
 ## Step five: Build the Makeover
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
-
-
 
 
 Critiquing My Makeover: 
