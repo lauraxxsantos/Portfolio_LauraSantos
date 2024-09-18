@@ -68,7 +68,7 @@ I see dataset with spatial data and jump with enthusiasm ! I think lets make a m
 
 In this excercise I learned that maps aren't always the makeover solution. Yes even when there is spatial data involved and the data is about counties, states, countries, and the whole world. 
 
-I got to this conlucsion by thinkining about -- Audience --. How can the data be best visualized for a government official or united nations member to look at & quickly gather the data ? How can the data compare country information side-by-side to quickly make comparisons ? 
+I got to this conlucsion by thinking about -- Audience -- thanks to those who offered feedback that were curious about what natural disasters were driving the high rates of death. How can the data be best visualized for a government official or united nations member to look at & quickly gather the data ? How can the data compare country information side-by-side to quickly make comparisons ? 
 
 So I scratched the map idea. I decided to focus on just a portion of the world and show more detailed information that could be helpful for a government official. I studied abroad and traveled South America, I hold these countries close to heart for this reason and because as a Latina I want to adovcate for the Latino community. Given these reasons and many more I decided to choose it as the region to dive into. 
 
