@@ -21,8 +21,7 @@ _Don't forget to complete the Google Form found on the assignment page.  You can
 
 ## Step three: Sketch the Makeover
 
-
-
+![Sketch the Makeover](Sketches.png)
 
 ## Step four: Test the Makeover
 
