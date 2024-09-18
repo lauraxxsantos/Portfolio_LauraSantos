@@ -16,10 +16,13 @@ https://ourworldindata.org/natural-disasters
 
 Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
-## Step two:Critiquing the Visualization 
+## Step two: Critiquing the Visualization 
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 ## Step three: Sketch the Makeover
+
+
+
 
 ## Step four: Test the Makeover
 
@@ -46,6 +49,9 @@ Make 1-10 numbered countries clear. The gradient color is good. The legend numbe
 Synthesis: 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+
+Both individuals that provided feedback were curious to know what sort of natural disasters were driving the total number of deaths in each country. Turkey had the highest natural disasters. Feedback provider #1 asked, "what goes on in Turkey?". The authors of this dataset on the impact of natural disasters on countries around the world probably gathered this information to help government officials be prepared for natural disasters. A map with total deaths from natural disasters is too general for a government to form an actionable plan from the visual. Given this curiosity in what natural disasters are causing deaths in a nation I will instead focus on a region of the world and choose a natural disaster that impacts that region the most. This way I can provid more detailed information for a smaller region than provding less information for a larger region. 
+
 
 ## Step five: Build the Makeover
 
