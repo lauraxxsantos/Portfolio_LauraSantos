@@ -66,9 +66,9 @@ Both individuals that provided feedback were curious to know what sort of natura
 
 I see dataset with spatial data and jump with enthusiasm ! I think lets make a map and exciting I get to practice my mapping skills !
 
-In this excercise I learned that maps aren't always the makeover solution. Yes even when there is spatial data involved and the data is about counties, states, countries, and the whole world. 
+In this excercise I learned that maps aren't always the makeover solution. Yes even when there is spatial data involved and the data is about counties, states, countries, or the whole world. 
 
-I got to this conlucsion by thinking about -- Audience -- thanks to those who offered feedback that were curious about what natural disasters were driving the high rates of death. How can the data be best visualized for a government official or united nations member to look at & quickly gather the data ? How can the data compare country information side-by-side to quickly make comparisons ? 
+I got to this conlucsion by thinking about --Audience. Thanks to the people that offered feedback who pushed me to think about who the visuals are meant for. It rose the questions, How can the data be best visualized for a government official or united nations member to look at & quickly gather the data ? How can the data compare country information side-by-side to quickly make comparisons ? 
 
 So I scratched the map idea. I decided to focus on just a portion of the world and show more detailed information that could be helpful for a government official. I studied abroad and traveled South America, I hold these countries close to heart for this reason and because as a Latina I want to adovcate for the Latino community. Given these reasons and many more I decided to choose it as the region to dive into. 
 
@@ -81,9 +81,29 @@ Thats the plot twist: the map enthusiast had to challenge herself to make a line
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
+Though it was sad to put my GIS skills back in the toolbox, it is always a good thing to challenge yourself !
+
+I imported the data into Tablaeu, filtered by South American countries and added the metrics on flooding. 
+
+Choosing a line chart type: 
+I was at first thining about a horizontal line graph but the below graphic was suggested by Tablaeu. A heartbeat line graph was mentioned by Professor Goranson. I believe this is hearbeat line graph. I think this graph works well with the displaying multiple metrics for many countries. The hearbeat line graph also makes this topic urgent. 
+
+
+Choosing color: 
+I initially was going to make the lines blue to resemble water since this chart is about floods. I think it could work well but I decided to make the lines red to create more urgency around the matter. 
+
+Choosing font: 
+I chose a sans-serif font to keep the chart more modern. I also think that sans-serif is an important addition to give the visual a serious tone. 
 
 Critiquing My Makeover: 
-I'm new to Tablaeu, I have yet to discover its full potential. Given that I am developing mt Tablaeu skills there are many things that I would do to adj
+I'm new to Tablaeu, I have yet to discover its full potential. Given that I am developing my Tablaeu skills there are many things that I would add and change to the chart. 
+1. Make it clear that every metric X-axis is numbered differently. 100s, 1000s, 100,000s, and millions.
+2. Change the font of the country names
+3. Try a horizontal heartbeat line
+4. Make the markers bigger so it was easier to see where each country is at for each metric
+5. If the below isn't possible, see how the country names at each metric looks like. But hat might be to repetitive. 
+
+Although I think the graphic is violating some rules we have learned in the course I was excited to challenge myself. I enjoyed adjust a chart type that wasn't a bar chart or a map. 
 
 
 <div class='tableauPlaceholder' id='viz1726628267003' style='position: relative'><noscript><a href='#'><img alt='The Toll of Flooding on South American Economies and Communities 2010 - 2020 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Na&#47;NaturalDisasters-LineChart&#47;EffectsofFloodLineChart&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NaturalDisasters-LineChart&#47;EffectsofFloodLineChart' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Na&#47;NaturalDisasters-LineChart&#47;EffectsofFloodLineChart&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
