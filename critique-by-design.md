@@ -17,7 +17,19 @@ https://ourworldindata.org/natural-disasters
 Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 ## Step two: Critiquing the Visualization 
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+What stood out to me, What I don't think works well, and What I would Change: 
+
+What stood out was that the site displayed the data as a table, map, and chart. All three of these visualizations let you filter by country, year, and different natural disaster data. I didn't notice this at first. Having the data available in different mediums can be helpful for different audiences. It's an effective interactive tool. I am a map enthusiasts so I focused on assessing the map portion of this dashboard. Displaying world data on natural disasters as a map is definitely an effective and engaging way to display the data.
+
+I love GIS so in this critique we will just focus on the map. (However there is a plot twist at the end.)
+The color scheme choropleth is unclear at first glance. There is a light blue tone among a choropleth that includes beige, coral, & red tones. It is unclear at first glance to determine where on the color scale the light blue color falls. Besides this blue, it is clear that the lightest color is the countries with the least amount of deaths by natural disasters. However, I do think these colors need to be more distinct from each other and have a light orange to dark red choropleth.  There are seven bins. The last bin is for countries with deaths between 1 million to 10 million, for 2020 this is particularly not relevent. I would alower the amount of bins to 5. This would allow for a choropleth map that has colors that are very distinct from each other. 
+
+The data is aggregated by decades, termed here ‘decadal averages.’ I think this term can be confusing at first. A viewer can think 1990 averageas are 1981-1990 or 1990 to 1999. Though it can be confusing, after understanding what decadal averages are it also makes sense to think about the data in terms of decades. So for instances we can say in the 90's there were more deaths by natural disasters. 
+
+The map aggregates the data by all-natural disasters. Since this is an overview map of all-natural disasters, it does make sense that the data is a decadal average of all-natural disasters. However, What could be more helpful is a time-lapse map of a decadal average of each natural disaster in addition to the map of all-natural disasters. The time-lapse video changes quickly between frames, slowing this down would be helpful for the viewer to digest the information. 
+
+Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not?
+The primary audience is someone who can or is empowered to create change. This includes government officials, researchers, professors, students, and community members. The data is displayed on the site as a table, map, and chart. Assessing the map on its own, the visual could be more effective in reaching the audience. A government official would benefit more from a visual it can look at quickly to get numbers. The aggregated deaths of all natural-disasters is not particularly helpful for a government. For them to make actionable changes, disaggregated data would be more informative. It would be helpful to understand what natural disasters are more prominent in a particular country or region. 
 
 ## Step three: Sketch the Makeover
 
@@ -55,6 +67,14 @@ Both individuals that provided feedback were curious to know what sort of natura
 ## Step five: Build the Makeover
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+
+
+
+
+
+Critiquing My Makeover: 
+I'm new to Tablaeu, I have yet to discover its full potential. Given that I am developing mt Tablaeu skills there are many things that I would do to adj
+
 
 <div class='tableauPlaceholder' id='viz1726628267003' style='position: relative'><noscript><a href='#'><img alt='The Toll of Flooding on South American Economies and Communities 2010 - 2020 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Na&#47;NaturalDisasters-LineChart&#47;EffectsofFloodLineChart&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NaturalDisasters-LineChart&#47;EffectsofFloodLineChart' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Na&#47;NaturalDisasters-LineChart&#47;EffectsofFloodLineChart&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
 var divElement = document.getElementById('viz1726628267003');                   
