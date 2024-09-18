@@ -4,7 +4,7 @@
 Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
 Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
-- Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://lauraxxsantos.github.io/Portfolio_LauraSantos/)
+- Web page URL: https://lauraxxsantos.github.io/Portfolio_LauraSantos/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
