@@ -23,30 +23,25 @@ _Don't forget to complete the Google Form found on the assignment page.  You can
 
 ## Step four: Test the Makeover
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+**Feedback #1: **
+Can you describe to me what this is telling you?
+The map represents deaths caused by natural disasters. 
 
-Questions to ask (modify these for your own interviews): 
+Is there anything you find surprising or confusing?
+The countries being listed 1 - 10 could be confusing in terms of if 1 is the highest death or the lowest among the top 10. 
 
-- Can you tell me what you think this is?
+Is there anything you would change or do differently?
+What are the natural disasters that happened in these countries. Is there really no deaths from natual disasters in those regions. The map is overall clear, it is straight forward with the darkest color being highest death. Did have questions about the difference between determining a polygon is gray with line and just a solid grey color. Listing countries in a chart to the side of the map. 
 
-- Can you describe to me what this is telling you?
+**Feedback #2: **
+Can you tell me what you think this is? Can you describe to me what this is telling you?
+It's a map of natural disasters as of 2020. 
 
-- Is there anything you find surprising or confusing?
+Is there anything you find surprising or confusing?
+The decadal average term is confusing. 
 
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+Is there anything you would change or do differently?
+Make 1-10 numbered countries clear. The gradient color is good. The legend number is clear and cleaner that way so leave it as is. 
 
 Synthesis: 
 
