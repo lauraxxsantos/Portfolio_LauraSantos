@@ -3,6 +3,9 @@
 # Outline
 In this project I will conduct a research analysis on emergency preparedness in the United States. Our World in Data site showed that natural disasters are increasing (Ritchie, 2022). It is vital that people across all communities, especially the most vulnerable are prepared for a disaster. In my project, I will share information on emergency preparedness across households with a disability status, low-income households, and households whose main language is spanish. 
 
+Objective: Assess disparities in emergency preparedness across vulnerable populations. Identify points of interventions to increase emergency preparedness. 
+
+
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 Text here...
