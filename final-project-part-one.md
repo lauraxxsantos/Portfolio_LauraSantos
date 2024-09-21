@@ -5,10 +5,10 @@ In this project I will conduct a research analysis on emergency preparedness in 
 
 Objective: Assess disparities in emergency preparedness across vulnerable populations. Identify points of interventions to increase emergency preparedness. 
 
-![Sketches-3](Sketches-3.png)
+![Sketches-3](Sketches-3.jpg)
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-![Sketches-6](Sketches-6.png)
+![Sketches-6](Sketches-6.jpg)
 
 
 Text here...
@@ -16,7 +16,7 @@ Text here...
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-![Sketches-4](Sketches-4.png)
+![Sketches-4](Sketches-4.jpg)
 
 # The data
  
