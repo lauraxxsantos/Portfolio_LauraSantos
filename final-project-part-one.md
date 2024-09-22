@@ -3,7 +3,15 @@
 # Outline
 In this project I will conduct a research analysis on emergency preparedness in the United States. Our World in Data site showed that natural disasters are increasing (Ritchie, 2022). It is vital that people across all communities, especially the most vulnerable are prepared for a disaster. In my project, I will share information on emergency preparedness across households with a disability status, low-income households, and households whose main language is spanish. 
 
-Objective: Assess disparities in emergency preparedness across vulnerable populations. Identify points of interventions to increase emergency preparedness. 
+Research Objective: Assess disparities in emergency preparedness across vulnerable populations. Identify points of interventions to increase emergency preparedness. 
+
+Project Goals: 
+- Flag disparities in emergency preparedness that exist among communities to advocate for campaigns that approach emergency preparedness with a culturally-senstive and socioeconomic lens. Different communities make require a different approach. 
+
+- Raise awareness about community levels of natural disaster preparedness to push for government interventions that increase safety for all U.S. residents. 
+
+- Determine which natural disasters communities are less aware about ways to prepare or less prepared for. 
+
 
 ![Sketches-3](Sketches-3.jpg)
 
@@ -22,10 +30,9 @@ Objective: Assess disparities in emergency preparedness across vulnerable popula
 Our World in Data: 
 Natural Disasters
 https://ourworldindata.org/natural-disasters
-This data set will be used to provide an overview of natural disasters in the United States over the last four decades 90s to 2020s
-It will show how each natural diaster has trended overtime
-This dataset provides information on deaths by natural disaster. A map on fatalities will be created. 
-The dataset also provides information on the number of people affected and inurey by disaster. A chart will also be created on that. 
+- This data set will be used to provide an overview of natural disasters in the United States over the last four decades 90s to 2020s.I will create a visual to show how each natural diaster has trended overtime
+- This dataset provides information on deaths by natural disaster. A map on fatalities will be included. 
+- The dataset also provides information on the number of people affected and inurey by disaster. A chart will also be created on that. 
 
 FEMA:
 National Household Survey 2023
