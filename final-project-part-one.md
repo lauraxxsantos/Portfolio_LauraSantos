@@ -21,6 +21,7 @@ Project Goals:
 
 ## Initial sketches
 
+Below are drafts of tablaeu charts. I plan to display data using chart types that best fit the purpose behing each data visualization. For example a line chart to show the trend of disasteres over decades. 
 
 ![Sketches-4](Sketches-4.jpg)
 
