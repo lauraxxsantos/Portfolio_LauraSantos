@@ -21,12 +21,18 @@ Project Goals:
 
 ## Initial sketches
 
-Below are drafts of tablaeu charts. I plan to display data using chart types that best fit the purpose behing each data visualization. For example a line chart to show the trend of disasteres over decades. 
+Below are drafts of tablaeu charts. 
+*Please note: I am still learning how to navigate Tablaeu so these are very much a draft draft. I plan to display data using chart types that best fit the purpose behing each data visualization.
 
+Sketch 1: A line chart to show the trend of disasteres over decades.  
 ![Sketches-4](Sketches-4.jpg)
 
+Sketch 2: A multi-line chart to be able to compare affected people by natural disaster.
 
 ![Sketches-1](SketchFinalProject1.png)
+
+Sketch 3: 
+A stacked chart to visualize how each natural disaster makes up homelessness amount. 
 ![Sketches-2](SketchFinalProject2.png)
 
 
