@@ -15,7 +15,6 @@ Project Goals:
 
 ![Sketches-3](Sketches-3.jpg)
 
-
 ![Sketches-6](Sketches-6.jpg)
 
 
@@ -24,6 +23,11 @@ Project Goals:
 
 
 ![Sketches-4](Sketches-4.jpg)
+
+
+![Sketches-1](SketchFinalProject1.png)
+![Sketches-2](SketchFinalProject2.png)
+
 
 
 
