@@ -1,9 +1,20 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+
+Shorthand: https://carnegiemellon.shorthandstories.com/mind-the-gap-unequal-preparedness-in-natural-disaster-planning/index.html
+
+Mind the Gap: Unequal Preparedness in Natural Disaster Planning 
+
+The outline: 
+
+1. Executive Summary
+2. Natural Disaster Rates in the United States
+3. Impacts of Natural Disasters: Homelessness, Deaths, and Natural Disasters
+4. Disparities in Preparedness: Income, Sociodemographically Disadvantaged, Disability, Ethnicity 
+5. Where FEMA Intervenes
+6. Call to Action 
 
 # User research 
 
@@ -55,8 +66,5 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
-Text here!
 
