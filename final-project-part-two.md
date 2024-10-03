@@ -12,20 +12,20 @@ The outline:
 1. Executive Summary
     -  Why is this topic important, who it affects and what are the call to actions for FEMA
 2. Natural Disaster Rates in the United States
-  -   Graph with trend of natural disasters in the U.S.
-  - describe overall natural disaster trends. Which is more prevalent
+    - Graph with trend of natural disasters in the U.S.
+    - describe overall natural disaster trends. Which is more prevalent
 3. Impacts of Natural Disasters: Homelessness, Deaths, and Economic Damage
-  - Impacts that natural disasters have on people and communities
-  - Graph with homelessness rates
-  - Graph on deaths
-  - Graphs on economic damages (emphasis on costs incurred because preparedness is low)
+    - Impacts that natural disasters have on people and communities
+    - Graph with homelessness rates
+    - Graph on deaths
+    - Graphs on economic damages (emphasis on costs incurred because preparedness is low)
 4. Case Study: Hurricane Harvey
     - emphasize that natural disasters affect more heavily populations that are already vulnerable 
-5.  Disparities in Preparedness: Income, Sociodemographically Disadvantaged, Disability
-    - include graphs with disparities that exist within different groups in Income, Sociodemographic status, Disability status
-6. Where FEMA Intervenes
-    - what is the work FEMA does now
-7. Call to Action for further FEMA intervention
+6.  Disparities in Preparedness: Income, Sociodemographically Disadvantaged, Disability
+    - Include graphs with disparities that exist within different groups in Income, Sociodemographic status, Disability status
+8. Where FEMA Intervenes
+       - what is the work FEMA does now
+10. Call to Action for further FEMA intervention
     - where FEMA can intervene
 
 # User research 
