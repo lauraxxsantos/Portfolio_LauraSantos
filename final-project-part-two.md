@@ -38,13 +38,10 @@ Text here!
 Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| From the title, What do you expect to learn from this webpage? | Insightful feedback| Natural disasters in the world. Show how they differ in each country.| Emphasize the need to be prepared for a natural disaster. | Disparities in preparing for a natural disaster. It's just unclear where. |
+| From the title, What do you expect to learn from this webpage? | Natural disasters in the world. Show how they differ in each country.| Emphasize the need to be prepared for a natural disaster. | Disparities in preparing for a natural disaster. It's just unclear where. |
 |  Looking at the layout, Who do you think the audience is?| A legislator |FEMA, to let them know areas of disparities and where they need to do more work. | Government officials or community members|
 |  Is there a visual you think provides the least support to the story? How can we improve that visual?|  There is a variety of graph styles which is helpful in showing the skills you have gained. Make these graphs have a cohesive color palette.| A graph about economic impact can be useful. Some data that tells the government the cost incurred when people are least prepared in comparison to cost incurred when people have been support to be prepared. |The area graph with the number of people affected by each natural disaster doesn’t seem to support the story. The numbers seem off. |
 
