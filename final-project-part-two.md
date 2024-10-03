@@ -10,15 +10,30 @@ Mind the Gap: Unequal Preparedness in Natural Disaster Planning
 The outline: 
 
 1. Executive Summary
+    -  Why is this topic important, who it affects and what are the call to actions for FEMA
 2. Natural Disaster Rates in the United States
-3. Impacts of Natural Disasters: Homelessness, Deaths, and Natural Disasters
-4. Disparities in Preparedness: Income, Sociodemographically Disadvantaged, Disability, Ethnicity 
-5. Where FEMA Intervenes
-6. Call to Action 
+  -   Graph with trend of natural disasters in the U.S.
+  - describe overall natural disaster trends. Which is more prevalent
+3. Impacts of Natural Disasters: Homelessness, Deaths, and Economic Damage
+  - Impacts that natural disasters have on people and communities
+  - Graph with homelessness rates
+  - Graph on deaths
+  - Graphs on economic damages (emphasis on costs incurred because preparedness is low)
+4. Case Study: Hurricane Harvey
+    - emphasize that natural disasters affect more heavily populations that are already vulnerable 
+5.  Disparities in Preparedness: Income, Sociodemographically Disadvantaged, Disability
+    - include graphs with disparities that exist within different groups in Income, Sociodemographic status, Disability status
+6. Where FEMA Intervenes
+    - what is the work FEMA does now
+7. Call to Action for further FEMA intervention
+    - where FEMA can intervene
 
 # User research 
 
 ## Target audience
+The audience is FEMA itself, as the leader in the United States emergency management they should be aware of disparities that exist in preparedness. The story is built with FEMA Data, which is a household survey assessing the level of preparedness for each household. FEMA does have this data, so if they reviewed it they would be aware of the disparities. I am going to approach this presentation as if I work for FEMA and I was tasked to analyze the data. This presentation is me presenting the findings to them. 
+
+Another audience member is the federal government and other government officials that can provide funding to FEMA and are responsible in holding FEMA accountable to the people. 
 
 
 ## Interview script
@@ -30,8 +45,6 @@ Research Objective: Assess disparities in emergency preparedness across vulnerab
 | Raise awareness about community levels of natural disaster preparedness to push for government interventions that increase safety for all U.S. residents.    |   Looking at the layout, Who do you think the audience is?               |
 | Determine which natural disasters communities are less aware about ways to prepare or less prepared for.| Given this goal, Is there a visual you think provides the least support to the story? How can we improve that visual?                   |
 
-
-Text here!
 
 ## Interview findings
 
@@ -49,14 +62,9 @@ Text here!
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
+|   Title                                       |  adjust or add to the title so it is more clear what context its for and who the audience is                                                                               |
+|    Graphs support story                                      |  Find a better dataset on natural disasters in the United states. Less graphs but more quality graphs. Adjust size of graphs.                                                                                |
+|  Focus in more on a disaster and audience                                        |     Make the audience FEMA top officials, to set the setting that I am presenting the findings from the household survey report.                                                                             |
 
 
 
