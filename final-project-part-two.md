@@ -44,9 +44,9 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| From the title, What do you expect to learn from this webpage? | Insightful feedback            |             |             |
+|  Looking at the layout, Who do you think the audience is?                       |                                |             |             |
+|Is there a visual you found the most helpful?                          |                                |             |             |
 
 
 # Identified changes for Part III
