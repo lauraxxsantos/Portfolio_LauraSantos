@@ -24,7 +24,7 @@ The outline:
 6.  Disparities in Preparedness: Income, Sociodemographically Disadvantaged, Disability
     - Include graphs with disparities that exist within different groups in Income, Sociodemographic status, Disability status
 8. Where FEMA Intervenes
-       - what is the work FEMA does now
+    - what is the work FEMA does now
 10. Call to Action for further FEMA intervention
     - where FEMA can intervene
 
