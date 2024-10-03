@@ -19,20 +19,16 @@ The outline:
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+Research Objective: Assess disparities in emergency preparedness across vulnerable populations. Identify points of interventions to increase emergency preparedness.
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Flag disparities in emergency preparedness that exist among communities to advocate for campaigns that approach emergency preparedness with a culturally-senstive and socioeconomic lens. Different communities may require a different approach.     |   From the title, What do you expect to learn from this webpage?               |
+| Raise awareness about community levels of natural disaster preparedness to push for government interventions that increase safety for all U.S. residents.    |   Looking at the layout, Who do you think the audience is?               |
+| Determine which natural disasters communities are less aware about ways to prepare or less prepared for.| Given this goal, Is there a visual you think provides the least support to the story? How can we improve that visual?                   |
 
 
 Text here!
