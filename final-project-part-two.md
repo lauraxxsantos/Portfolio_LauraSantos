@@ -13,25 +13,25 @@ The outline:
     -  Why is this topic important, who it affects and what are the call to actions for FEMA
 2. Natural Disaster Rates in the United States
     - Graph with trend of natural disasters in the U.S.
-    - describe overall natural disaster trends. Which is more prevalent
+    - Describe overall natural disaster trends. Which is more prevalent
 3. Impacts of Natural Disasters: Homelessness, Deaths, and Economic Damage
     - Impacts that natural disasters have on people and communities
     - Graph with homelessness rates
     - Graph on deaths
     - Graphs on economic damages (emphasis on costs incurred because preparedness is low)
 4. Case Study: Hurricane Harvey
-    - emphasize that natural disasters affect more heavily populations that are already vulnerable 
+    - Emphasize that natural disasters affect more heavily populations that are already vulnerable 
 6.  Disparities in Preparedness: Income, Sociodemographically Disadvantaged, Disability
     - Include graphs with disparities that exist within different groups in Income, Sociodemographic status, Disability status
 8. Where FEMA Intervenes
-    - what is the work FEMA does now
+    - What is the work FEMA does now
 10. Call to Action for further FEMA intervention
-    - where FEMA can intervene
+    - Where FEMA can intervene
 
 # User research 
 
 ## Target audience
-The audience is FEMA itself, as the leader in the United States emergency management they should be aware of disparities that exist in preparedness. The story is built with FEMA Data, which is a household survey assessing the level of preparedness for each household. FEMA does have this data, so if they reviewed it they would be aware of the disparities. I am going to approach this presentation as if I work for FEMA and I was tasked to analyze the data. This presentation is me presenting the findings to them. 
+The audience is FEMA itself, as the leader in the United States for emergency management they should be aware of disparities that exist in preparedness. The story is built with FEMA Data, which is a household survey assessing the level of preparedness for each household. FEMA does have this data, so if they reviewed it they would be aware of the disparities. I am going to approach this presentation as if I work for FEMA and I was tasked to analyze the data. This presentation is me presenting the findings to them. 
 
 Another audience member is the federal government and other government officials that can provide funding to FEMA and are responsible in holding FEMA accountable to the people. 
 
