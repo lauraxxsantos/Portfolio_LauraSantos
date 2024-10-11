@@ -6,7 +6,7 @@ In this project I will conduct a research analysis on emergency preparedness in 
 Research Objective: Assess disparities in emergency preparedness across vulnerable populations. Identify points of interventions to increase emergency preparedness. 
 
 Project Goals: 
-- Flag disparities in emergency preparedness that exist among communities to advocate for campaigns that approach emergency preparedness with a culturally-senstive and socioeconomic lens. Different communities make require a different approach. 
+- Flag disparities in emergency preparedness that exist among communities to advocate for campaigns that approach emergency preparedness with a culturally-senstive and socioeconomic lens. Different communities may require a different approach. 
 
 - Raise awareness about community levels of natural disaster preparedness to push for government interventions that increase safety for all U.S. residents. 
 
