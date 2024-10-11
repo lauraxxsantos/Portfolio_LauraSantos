@@ -3,7 +3,7 @@
 # Telling Stories with Data Portfolio 
 
 - Web page URL: https://lauraxxsantos.github.io/Portfolio_LauraSantos/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+
 
 # Portfolio
 
