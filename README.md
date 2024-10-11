@@ -26,3 +26,4 @@ I have a strong desire to apply my GIS skills to address transnational issues, c
 1. Leave with a foundational understanding of good visualization practices to create visuals that present data ethically 
 2. Learn how to use Tableau to create dashboards 
 3. Be able to assess graphics presented in news outlets and research studies critically 
+ 
