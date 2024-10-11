@@ -6,7 +6,7 @@ Mind the Gap: Unequal Preparedness in Natural Disaster Planning
 Shorthand link: 
 https://carnegiemellon.shorthandstories.com/mind-the-gap-unequal-preparedness-in-natural-disaster-planning/index.html#section-Title-kUWbtRlBam
 
-# Script 
+# 1-Minute Script 
 Before I begin, I want to set the stage. I am a FEMA data analyst, and you are FEMA board members. 
 
 Good afternoon everyone, 
