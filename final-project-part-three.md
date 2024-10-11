@@ -43,7 +43,7 @@ FEMA could address this problem in 3 ways: increase awareness on being adequatel
 # Changes made since Part II
 In phase II I was still deciding on the storyline. My original story line was to focus on all natural disasters in the U.S. After feedback from classmates and the course Professor, I was advised that I could tell a stronger story if I focused more in on the topic. From the data I saw that hurricanes have the most FEMA emergency declarations. It is also known that one Hurricane can cause great damage to a region. The class TA also suggested I focus on a case study for my storyline and specified that Harvey would be a good option. 
 
-# To help me organize my story I used the following logical philosophical argumentation:
+## To help me organize my story I used the following logical philosophical argumentation:
 
 **1. We must agree this thing exists**
 
