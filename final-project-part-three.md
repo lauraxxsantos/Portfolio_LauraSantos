@@ -110,4 +110,15 @@ If I had more time I would have included a map with regions in the 100-yr flood 
 
 I was excited to learn how to build visuals that support a story. I do feel like a gained that from this class. I'll be able to think more critically on the visuals I build for report or presentations. Another big theme of this class is Audience, I learned to think about my audience in my stroyline decision and visual decisions. 
 
+**Assessing myself in achieving my Project Goals:** These are the project goals I set out in Part I. I was able to determine which sociodemographics affect household preparedness the most. Income was the driving factor. From analyzing the data I did find that floods is the natural disaster people are less prepared for but I did not include this in this project since I chose to focus on hurricanes. 
+
+Project Goals:
+
+1. Flag disparities in emergency preparedness that exist among communities to advocate for campaigns that approach emergency preparedness with a culturally-senstive and socioeconomic lens. Different communities may require a different approach.
+     Rate myself a 3 out of 3. 
+2. Raise awareness about community levels of natural disaster preparedness to push for government interventions that increase safety for all U.S. residents.
+     Rate myself a 3 out of 3. 
+3. Determine which natural disasters communities are less aware about ways to prepare or less prepared for.
+     Rate myself a 1 out of 3. My storyline focused on hurricanes rather than floods which is the natural disaster people were least prepared for. 
+
 
