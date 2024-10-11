@@ -19,7 +19,6 @@ _A reminder that to get the Tableau visualization to render correctly on Github,
 ![General Debt Visualization](Comparison.png)
 
 
-_Summarize in a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization.  Be specific - keep your writeup relevant to the assignment, and avoid jargon-filled language that doesn't say anything useful._
 
 Did the 2008 U.S. Recession impact Mexico? 
 
