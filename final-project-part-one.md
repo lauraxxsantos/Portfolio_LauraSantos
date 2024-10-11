@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://lauraxxsantos.github.io/Portfolio_LauraSantos/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Outline
 In this project I will conduct a research analysis on emergency preparedness in the United States. Our World in Data site showed that natural disasters are increasing (Ritchie, 2022). It is vital that people across all communities, especially the most vulnerable are prepared for a disaster. In my project, I will share information on emergency preparedness across households with a disability status, low-income households, and households whose main language is spanish. 
