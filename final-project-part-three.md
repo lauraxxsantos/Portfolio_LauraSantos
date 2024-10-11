@@ -43,8 +43,8 @@ FEMA could address this problem in 3 ways: increase awareness on being adequatel
 # Changes made since Part II
 In phase II I was still deciding on the storyline. My original story line was to focus on all natural disasters in the U.S. After feedback from classmates and the course Professor, I was advised that I could tell a stronger story if I focused more in on the topic. From the data I saw that hurricanes have the most FEMA emergency declarations. It is also known that one Hurricane can cause great damage to a region. The class TA also suggested I focus on a case study for my storyline and specified that Harvey would be a good option. 
 
-**To help me organize my story I used the following logical philosophical argumentation:
-**
+# To help me organize my story I used the following logical philosophical argumentation:
+
 **1. We must agree this thing exists**
 
 This involves establishing the existence of the concept or phenomenon being discussed.
@@ -74,30 +74,30 @@ This argumentation approach helped me organize my story line. I was not sure if 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Visual 1: FEMA Declarations Per Disaster Type
+**Visual 1:** FEMA Declarations Per Disaster Type
 
 The FEMA declarations visual shows the amount of declaration made by FEMA in a year per disaster type. FEMA Declarations designate an area as eligible for federal disaster assistance after a disaster. 
 
 I orginally was going to do 2014 to 2024 but there was no hurricane data from 2013 to 2014. This meant that the hurricane trend line started in 2015. I thought this would be confusing. I decided to start the data at a year where there was data for all trend lines. 
 
 
-Visual 2: United States' Costliest Hurricanes 
+**Visual 2: **United States' Costliest Hurricanes 
 
 For this visual I took a makeover monday approach. One of the articles I read had a bar chart on hurricane damage costs. I thought this data was important in telling the story " Household Unpreparedness in Hurricanes is costly ". I created a table of the data and highlighted the Harvey row since it is the one that is important on this story. 
 
 
 
-Visual 3: How does household income impact emergency preparedness? 
+**Visual 3:** How does household income impact emergency preparedness? 
 
 This was my favorite visual. As you scroll through the chart you can see how prepared individuals by income bin increase as income increases. 
 
 
-Visual 4: Household Disability Status: Affect of Income on Preparedness
+**Visual 4:** Household Disability Status: Affect of Income on Preparedness
 
 Including this information on household's with disability status was a way to further drive the point that income is a driving factor in a household being prepared. I would think that those with a disability are probably less prepared for a disaster given their physical abilities or financial impact that being disabled can have. However, the data shows that households with a disability status are actually more prepared but when income is considered those that are low-income are less prepared. 
 
 
-Visual 5: How does a educatioal degree affect emergency preparedness?
+**Visual 5: ** How does a educatioal degree affect emergency preparedness?
 
 At one point during this process I noticed that all my visuals were bar charts. Its the visual that worked the best given that I was comparing a binary variable with a categorical variable. I went through all the visuals and challenged myself to think about other ways to clearly represent the data. For education, I decided to use piecharts because the data gaps were big enough for a viewer to be able to see a difference in prepared/unprepared by income category. In the visual you can see how the piechart turns more blue as income increasing, showing that with income there is an increase in households being prepared for a natural disaster. 
 
